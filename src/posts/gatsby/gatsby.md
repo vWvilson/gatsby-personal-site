@@ -1,9 +1,9 @@
 ---
-title: "Gatsby bootcamp"
+title: "Gatsby"
 date: "May 5, 2019"
 ---
 
-Finished up a 4 hour GatsbyJS bootcamp.
+Finished up building a GatsbyJS site .
 
 ![Hiker](./hiker.png)
 
