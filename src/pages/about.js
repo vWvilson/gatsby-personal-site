@@ -14,7 +14,7 @@ const AboutPage = ()=> {
         <Layout>
         <Head title ="About"/>
         <h1>About</h1>
-        <p>Former structural welder. Building buildings, building websites.</p>
+        <p>Former structural welder.Building buildings, building websites.</p>
         <Link className={contactStyle.contactItem} to ="/contact"><p>Contact</p></Link>
         </Layout>
     )
