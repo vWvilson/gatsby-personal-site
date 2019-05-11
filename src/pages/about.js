@@ -14,7 +14,9 @@ const AboutPage = ()=> {
         <Layout>
         <Head title ="About"/>
         <h1>About</h1>
-        <p>Former structural welder.Building buildings, building websites.</p>
+        <p>Front-end developer with an enthusiasm for learning and web development. 
+            Recent bootcamp graduate with a focus on Javascript, Node, Express, Mongo and React. 
+            Former structural welder. Building buildings, building websites.</p>
         <Link className={contactStyle.contactItem} to ="/contact"><p>Contact</p></Link>
         </Layout>
     )
