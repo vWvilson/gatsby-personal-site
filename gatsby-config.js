@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: 'Wil Wilson',
-        author:'Wil Wilson'
+        title: 'Carla Wilson',
+        author:'Carla Wilson'
     },
     plugins:[
 

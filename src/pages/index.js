@@ -12,7 +12,7 @@ const IndexPage=()=> {
         <Layout>
             <Head title ="Home"/>
             <h1>Hello.</h1>
-            <h2>I'm Wil, a front-end developer living in Pittsburgh. </h2>
+            <h2>I'm Carla, a front-end developer living in Pittsburgh. </h2>
             <p>Need a developer? <Link className={contactStyle.contactItem}  to ="/contact">Contact me </Link></p>
         </Layout>
     )
